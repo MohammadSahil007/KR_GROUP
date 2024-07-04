@@ -1,0 +1,140 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-logo {
+    max-width: 120px;
+    height: auto;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+  .navbar-nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  .navbar-nav li {
+    margin-left: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-nav {
+      margin-top: 20px;
+      flex-direction: column;
+    }
+  
+    .navbar-nav li {
+      margin-left: 0;
+    }
+  }
+  .navbar-nav .active > a {
+    background-color: #ffcc00; /* Set your desired active base color */
+    color: #000; /* Set your desired text color */
+  }
+  
+  .navbar-nav .active > a:hover {
+    background-color: #ffcc00; /* Ensure the hover state matches the active state */
+    color: #000; /* Ensure the text color matches the active state */
+  }
+  
+  .qu {  
+    margin: 0 auto;
+    overflow: hidden;
+    white-space: nowrap;
+    bottom:'100px';
+  }
+
+.qu span {
+  /*color:#000;*/
+  color:#137a4b;
+  background-color: antiquewhite;
+  display: inline-block;
+  position: fixed;
+  font-size: 17px;
+  font-weight:600;
+  position: fixed;
+  left: 100%;
+  animation: marquee 30s linear infinite;
+  padding:10px 20px 15px 20px;
+}
+.qu:hover span {
+  animation-play-state: paused;
+}
+
+.qu span:nth-child(1) {
+  animation-delay: 0s;
+}
+@keyframes marquee {
+  0%   { left: 100%; }
+  100% { left: -100%; }
+}
+.tbk{height:415px;}
+.cr{cursor:pointer;}
+.blog-posts video{width:350px;height:300px;}
+
+
+.col1
+{
+  color:#000;
+  width:'100px';
+  background-color: #ffcc00;
+}
+
+/*  */
+/* src/ScrollingDisclaimer.css */
+
+.disclaimer-container {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  background-color: #f0f0f0;
+  padding: 10px 0;
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.disclaimer-text {
+  display: inline-block;
+  padding-left: 100%;
+  animation: scroll-left 15s linear infinite;
+}
+
+@keyframes scroll-left {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+.footer-a a{
+  color:#000
+}
+
+  /* .contact-button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+  }
+
+  .contact-button:hover {
+    background-color: #0056b3;
+  } */
+
+  .contact-button {
+    background: linear-gradient(to right, #FFD700, #FFA500);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    transition: background 0.3s ease;
+}
+
+.contact-button:hover {
+    background: linear-gradient(to right, #FFC700, #FF8C00);
+    color:whitesmoke
+}

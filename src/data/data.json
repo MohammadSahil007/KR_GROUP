@@ -1,0 +1,255 @@
+{
+  "Header": {
+    "title": "K.R. Group - Your Partner in International Recruitment",
+    "paragraph": "Connecting Talent Across Borders"
+  },
+  
+  "About": {
+    "paragraph": "At K.R. Group, we understand the complexities of international recruitment. Our team of experts has extensive knowledge and experience in matching candidates with the right opportunities. We prioritize building long-term relationships with our clients and candidates, ensuring a seamless and successful placement process. ",
+    "Why": [
+      "Global Network and Partnerships",       
+        "Personalized Approach",
+        "Thorough Candidate Screening",
+        "Competitive Salary Packages",
+        "Post-Placement Support"
+
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "img": "img/services/01.jpg",
+      "name": "International Job Placement",
+      "text": "We specialize in offering international job placements, connecting talented professionals with exciting career opportunities worldwide."
+    },
+    {
+      "img": "img/services/02.jpg",
+      "name": "Talent Acquisition and Management",
+      "text": "We specialize in sourcing, recruiting, and retaining top talent, ensuring that your organization is equipped with the skilled professionals needed to drive success and achieve your business goals."
+    },
+   
+    {
+      "img": "img/services/03.jpg",
+      "name": "Visa and Relocation Assistance",
+      "text": "Our comprehensive visa and relocation services streamline the process for international hires, handling paperwork, logistics, and settling-in support to ensure a smooth transition for employees and their families."
+    },
+    {
+      "img":"img/services/04.jpg ",
+      "name": "Cultural Adaptation and Support",
+      "text": "We provide personalized cultural adaptation programs to help international employees acclimate to their new environment, fostering cultural understanding, effective communication, and a sense of belonging within your organization"
+    }
+
+  ],
+  "IndustriesWeServe": [
+    {
+      "img": "img/industries-we-serve/c1.png",
+      "name": "Construction",
+      "text": ""
+    },
+    
+    {
+      "img": "img/industries-we-serve/02.jpeg",
+      "name": "Healthcare",
+      "text": ""
+    },
+    
+    {
+      "img": "img/industries-we-serve/03.jpg",
+      "name": "Finance",
+      "text": ""
+    },
+    
+    {
+      "img": "img/industries-we-serve/04.jpg",
+      "name": "Technology",
+      "text": ""
+    },
+    
+    {
+      "img": "img/industries-we-serve/05.png",
+      "name": "Hospitality/Hotel Management",
+      "text": ""
+    },
+    
+    {
+      "img": "img/industries-we-serve/06.jpg",
+      "name": "Transport/Logistic ",
+      "text": ""
+    }
+    
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": " 311, 3rd floor, Neo Corporate Plaza, Opp. Kapol Marriage Hall, Ramchandra Lane, Malad (W), Mumbai - 400 064. ",
+    "phone": "+91 982 195 9412",
+    "email": "sskre@admin.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Home": [
+    {
+      "icon": "fa fa-globe",
+      "title": "Global Network and Partnerships",
+      "text": "We leverage our extensive global network and partnerships to source top talent from diverse markets."
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "Competitive Salary Packages",
+      "text": "We ensure competitive salary packages, attracting high-caliber candidates who are motivated and committed."
+    },
+    {
+      "icon": "fa fa-handshake",
+      "title": "Post-Placement Support",
+      "text": "Our post-placement support ensures seamless integration and ongoing success for both clients and candidates."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Personalized Approach",
+      "text": "We tailor our services to meet the unique needs of each client, ensuring a personalized recruitment experience."
+    },
+    {
+      "icon": "fa fa-search",
+      "title": "Thorough Candidate Screening",
+      "text": "Our rigorous candidate screening process guarantees that only the most qualified and suitable candidates are selected."
+    },
+    {
+      "icon": "fa fa-laugh",
+      "title": "Trustable Organisation",
+      "text": "As a reliable organization, we are committed to transparency, integrity, and building long-term relationships with our clients."
+    }
+  ],
+  "Home2": [
+    {
+      "icon": "fa fa-search",
+      "title": "Recruitment",
+      "text": "We leverage our extensive global network and partnerships to source top talent from diverse markets."
+    },
+    {
+      "icon": "fa fa-wrench",
+      "title": "Maintenance",
+      "text": "We ensure competitive salary packages, attracting high-caliber candidates who are motivated and committed."
+    },
+    {
+      "icon": "fa fa-plane",
+      "title": "Ticketing",
+      "text": "Our post-placement support ensures seamless integration and ongoing success for both clients and candidates."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Hajj & Umrah ",
+      "text": "We tailor our services to meet the unique needs of each client, ensuring a personalized recruitment experience."
+    },
+    {
+      "icon": "fa fa-arrow-down",
+      "title": "Import & Export",
+      "text": "We tailor our services to meet the unique needs of each client, ensuring a personalized recruitment experience."
+    }
+    
+  ]
+}
